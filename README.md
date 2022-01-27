@@ -2,8 +2,7 @@
 - 👀 I’m interested in game-development
 - 🌱 I’m currently learning C# and game-engine Unity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: golubenkokirill@gmail.com or golubenkokirill@outlook.com
-
+- 📫 How to reach me:
 <!---
 kirill-blip/kirill-blip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
