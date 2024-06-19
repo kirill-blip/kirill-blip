@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kirill-blip
+- 👋 Hi, I’m Kirill
 - 👀 I’m interested in game-development
-- 🌱 I’m currently learning C# and game-engine Unity
+- 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 <!---
