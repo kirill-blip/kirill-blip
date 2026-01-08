@@ -29,8 +29,5 @@ Passionate about creating games, experimenting with mechanics, and contributing 
 - 📫 Email: golubenkokirill@gmail.com
 
 <!-- Fun animated pixel art scene -->
-<img src="https://user-images.githubusercontent.com/44952272/48558163-acba4c00-e93c-11e8-963c-62958dbb4dd3.gif" width="600" alt="Pixel art game animation">
-
-YOUR_USERNAME/YOUR_USERNAME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!--<img src="https://user-images.githubusercontent.com/44952272/48558163-acba4c00-e93c-11e8-963c-62958dbb4dd3.gif" width="600" alt="Pixel art game animation">
 --->
