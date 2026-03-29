@@ -8,10 +8,6 @@ Passionate about creating games, experimenting with mechanics, and contributing 
 - Game Development
 - Indie games and open-source projects
 
-### Currently learning
-- .NET ecosystem (ASP.NET Core, .NET MAUI, Entity Framework)
-- Unity Engine (2D/3D, shaders, multiplayer basics)
-
 ### Looking to collaborate on
 - Open-source games built with Unity/C#
 - Portfolio projects or game jams (GMTK, Ludum Dare)
@@ -22,7 +18,6 @@ Passionate about creating games, experimenting with mechanics, and contributing 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Connect with me
